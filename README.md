@@ -2,10 +2,8 @@
 <br/><br/>
 
 ### 진행한 프로젝트(업무)
-* 아이나비Connected
-  1. 리뉴얼
-    - [리뉴얼 전/후 앱 look and feel](https://github.com/velmash/connectedRenewalImg)
-  2. 작성 중
+* [아이나비Connected](https://github.com/velmash/Portfolio/tree/main/iNavi/Connected)
+  
 <br/>
 
 ### 진행한 사이드 프로젝트
